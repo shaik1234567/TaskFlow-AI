@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TaskFlow AI",
+  "description": "A scalable task management dashboard featuring secure authentication, CRUD operations, and AI-powered task generation using Google Gemini. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
